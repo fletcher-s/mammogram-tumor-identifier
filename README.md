@@ -2,7 +2,7 @@
 
 Try it here: fletcher-s.github.io/mammogram-tumor-identifier
 
-What it does
+**What it does**
 
 This tool takes a mammogram image and highlights areas where the model thinks a tumor or mass may be present. It overlays the prediction on top of the image and also gives a confidence score along with the percentage of the image marked as abnormal.
 
